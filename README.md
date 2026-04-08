@@ -1,2 +1,3 @@
-# URBAN-HEALTH-INTELLIGENCE
-Smart web app that helps analyze the heat levels in any Indian city
+# Welcome to your Lovable project
+
+TODO: Document your project here
